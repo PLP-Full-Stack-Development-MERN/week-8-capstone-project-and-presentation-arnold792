@@ -116,4 +116,39 @@ mern-capstone/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details 
+This project is licensed under the MIT License - see the LICENSE file for details
+
+---
+
+# Week 8: Capstone Project Guidelines
+
+## Project Overview
+
+This Task Management Application is the final project for the MERN stack development course. It demonstrates the implementation of:
+
+- Full-stack development with MERN
+- Project planning and architecture
+- Authentication and authorization
+- CRUD operations
+- Modern UI/UX practices
+- Deployment best practices
+
+## Evaluation Criteria
+
+The project will be evaluated based on:
+
+- **Functionality (30%)** – All core features are working as expected
+- **Code Quality (20%)** – Well-structured, maintainable TypeScript code
+- **UI/UX (20%)** – Clean, responsive, and user-friendly interface
+- **Documentation (15%)** – Comprehensive README and API documentation
+- **Presentation (15%)** – Clear project demonstration
+
+## Implementation Timeline
+
+| Milestone            | Description                                  | Status     |
+| -------------------- | -------------------------------------------- | ---------- |
+| Project Setup        | Initialize MERN stack with TypeScript        | Completed  |
+| Backend Development  | Auth & Task API implementation               | Completed  |
+| Frontend Development | UI components and API integration            | In Progress|
+| Testing & Debugging  | Unit and integration tests                   | Pending    |
+| Deployment           | Deploy on Vercel/Render                      | Pending    |
